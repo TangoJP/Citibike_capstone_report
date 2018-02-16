@@ -12,11 +12,16 @@ plots, figures, and analyses in my Capstone Report for Springboard
 used for evaluating machine learning models.
 
 <b>Image Gallery</b><br>
+<i>Ridership vs Temperature</i><br>
 ![Ridership vs Temperature](./images/temperature.png)
 <br>
+<i>Predicting Ridership</i><br>
 ![Predicting Ridership](./images/regression2.png)
 <br>
+<i>Evaluating Model Performance</i><br>
 ![Evaluating Model Performance](./images/r2_mse.png)
 <br>
+
+<i>Popular Stations</i><br>
 ![Popular Stations](./images/map.png)
 <br>

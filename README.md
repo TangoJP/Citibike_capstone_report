@@ -12,4 +12,4 @@ plots, figures, and analyses in my Capstone Report for Springboard
 used for evaluating machine learning models.
 
 Image Gallery
-![Popular Stations](https://raw.githubusercontent.com/TangoJP/Citibike_capstone_report/blob/master/images/map.png)
+![Popular Stations](./images/map.png)

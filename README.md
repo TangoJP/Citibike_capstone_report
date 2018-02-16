@@ -11,5 +11,12 @@ plots, figures, and analyses in my Capstone Report for Springboard
 - my_scoring_functions.py in the main folder contains custom functions that were
 used for evaluating machine learning models.
 
-Image Gallery
+<b>Image Gallery</b><br>
+![Ridership vs Temperature](./images/temperature.png)
+<br>
+![Predicting Ridership](./images/regression2.png)
+<br>
+![Evaluating Model Performance](./images/r2_mse.png)
+<br>
 ![Popular Stations](./images/map.png)
+<br>
